@@ -1,0 +1,2 @@
+# JinJin
+My frist repository
